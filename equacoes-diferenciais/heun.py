@@ -11,4 +11,4 @@ def heun(x0, y0, h, end, e):
   return y
 
 
-print(heun(0, 1, 0.125, 1, 0.000001))
+print(heun(0, 1, 0.5, 1, 0.000001))
